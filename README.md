@@ -1,38 +1,15 @@
-# Banking Management System
+A Python-based Banking Management System that simulates banking operations such as account creation, deposits, withdrawals, balance inquiries, and transaction history using OOP.
 
-## Technologies
+Description :
 
-- Python
-- MySQL
-- mysql-connector-python
+The Banking Management System is a console-based Python application that simulates essential banking services. Users can create accounts, deposit and withdraw money, check account balances, and view transaction history. The project demonstrates Object-Oriented Programming, exception handling, file handling, and database integration with SQLite or MySQL.
 
-## Concepts Used
-
-- Object Oriented Programming
-- MySQL Database
-- CRUD Operations
-- Exception Handling
-- File Handling
-- Login Authentication
-
-## Features
-
-- Create Account
-- Login
-- Deposit Money
-- Withdraw Money
-- Balance Enquiry
-- Mini Statement
-- Transaction History
-- Search Account
-- Update Account
-- Delete Account
-- Display All Accounts
-
-## Install
-
-pip install mysql-connector-python
-
-## Run
-
-python main.py
+Features :
+Create New Account,
+Deposit Money,
+Withdraw Money,
+Balance Inquiry,
+Transaction History,
+Account Management,
+Secure Input Validation,
+File Handling / MySQL Support
